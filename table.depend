@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1628702786 source:d:\programming\oop c++\project table\table\main.cpp
+	<iostream>
+	"Table.h"
+
+1628547738 source:d:\programming\oop c++\project table\table\validation.cpp
+	"Validation.h"
+
+1628547842 d:\programming\oop c++\project table\table\validation.h
+	<iostream>
+	<string>
+
+1628702916 source:d:\programming\oop c++\project table\table\table.cpp
+	"Table.h"
+
+1628694211 d:\programming\oop c++\project table\table\table.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+	"Validation.h"
+
